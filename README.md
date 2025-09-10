@@ -1,2 +1,3 @@
 # beginning-of-beginning
-this is my first one,as i start fresh
+this is my first one, as i start fresh
+i feel im late to learning but better late then never....
