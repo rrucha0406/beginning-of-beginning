@@ -5,4 +5,5 @@ i feel im late to learning but better late then never....
 
 
 
-pday 1: sql done uploading files in 10 mins busy with sih prep for now also need to do dsa
+day 1: sql done uploading files in 10 mins busy with sih prep for now also need to do dsa
+day 2: potd 1 easy ques ill have to learn docker and kubernetes and also do dsa simultaneously i will go with cpp doing atleast one video daily.
