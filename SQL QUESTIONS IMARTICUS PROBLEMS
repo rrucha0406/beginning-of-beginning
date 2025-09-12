@@ -1,0 +1,42 @@
+PRACTICE QUESTIONS
+Q1. Retrieve all customer names and cities from the personal_info table.
+
+Q2. Display all records from the personal_info table.
+
+Q3. List all customers from the city 'New York'.
+
+Q4. Retrieve all product records from the product_sales table where sales exceed 1500.
+
+Q5. Retrieve items from product_sales table where Sales is between 1000 and 1500.
+
+Q6. List all customers whose names start with 'A' from the personal_info table.
+
+Q7. Find customers whose names end with 'n' from the personal_info table.
+
+Q8. Retrieve customers from personal_info where the second character of the name is 'r'.
+
+Q9. List all customers who are from either 'Delhi', 'Mumbai', or 'Bangalore'.
+
+Q10. Display all customers whose city is not 'Kolkata'.
+
+Q11. List all customers whose city information is missing (NULL).
+
+Q12. List all orders from orders table where order date is after '2024-01-01'.
+
+Q13. Show all records in orders placed between '2024-01-01' and '2024-03-31'.
+
+Q14. Display current system date using SQL.
+
+Q15. Display only the current date (excluding time)
+.
+Q16. Retrieve current year using SQL date function.
+
+Q17. Retrieve all orders and extract the month from Order_Date.
+
+Q18. Extract the day and year separately from Order_Date in orders.
+
+Q19. Display formatted order dates as 'Month-Year' in orders.
+
+Q20. List orders from the month of January regardless of year.
+
+
