@@ -10,4 +10,5 @@ day 2: potd 1 easy ques ill have to learn docker and kubernetes and also do dsa 
 day3 : busy in sih
 day 4: busy in sih
 meri streak bih tutii
-
+day 5: 3 hrs strong did my first leetcode on my own llol
+completed my lec13 ,getting better everyday 
