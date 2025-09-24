@@ -13,4 +13,8 @@ meri streak bih tutii
 day 5: 3 hrs strong did my first leetcode on my own llol
 completed my lec13 ,getting better everyday 
 day 6:completed lec 16 ,17,18 did easy problems on arrays potential yaad hai na?
+second largest third largest keliye you have to maintain the variables for larger sets you can use heap or sorting method ,it s called as the kth largest or the kth smallest elements
+
+ itna mehnat leke bhi internal hi qualify nahi hue hamlog sih ka ....but thike atleast ppt banana sikhe
+ 
 
