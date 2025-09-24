@@ -12,3 +12,5 @@ day 4: busy in sih
 meri streak bih tutii
 day 5: 3 hrs strong did my first leetcode on my own llol
 completed my lec13 ,getting better everyday 
+day 6:completed lec 16 ,17,18 did easy problems on arrays potential yaad hai na?
+
