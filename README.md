@@ -16,5 +16,6 @@ day 6:completed lec 16 ,17,18 did easy problems on arrays potential yaad hai na?
 second largest third largest keliye you have to maintain the variables for larger sets you can use heap or sorting method ,it s called as the kth largest or the kth smallest elements
 
  itna mehnat leke bhi internal hi qualify nahi hue hamlog sih ka ....but thike atleast ppt banana sikhe
+ day 7: i did padhai yesterday as well but forgot to update on github, stl library basics and basics array problemss over over overerrrr
  
 
